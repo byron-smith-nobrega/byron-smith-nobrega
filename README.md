@@ -1,4 +1,4 @@
-### Oi, muito prazer! Seja muito bem-vind@! 👋
+### Oi, muito prazer! Seja muito bem-vindo! 👋
 
 Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou estudando no bootcamp full-stack da Labenu. Sou apaixonado pelo mundo dev e como ele pode transformar as vidas das pessoas.
 
