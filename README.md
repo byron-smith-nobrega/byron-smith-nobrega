@@ -1,8 +1,5 @@
 ### Oi, muito prazer! Seja muito bem-vind@! 👋
 
-<!--
-**byron-smith-nobrega/byron-smith-nobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### Estudando...
 
 * Front-End
