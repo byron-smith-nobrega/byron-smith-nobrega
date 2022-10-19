@@ -24,3 +24,6 @@ Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="28" /> 
 <br />
+
+
+<a height="150em" href="http://www.github.com/sucodelarangela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sucodelarangela&stroke=B3B2B8&background=141439&ring=FECB00&fire=FECB00&currStreakNum=FE1AFE&currStreakLabel=FECB00&sideNums=FE1AFE&sideLabels=FECB00&dates=8080fe&hide_border=false" /></a>
