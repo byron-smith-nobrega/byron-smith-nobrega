@@ -26,4 +26,3 @@ Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou 
 <br />
 
 
-<a height="150em" href="http://www.github.com/sucodelarangela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sucodelarangela&stroke=B3B2B8&background=141439&ring=FECB00&fire=FECB00&currStreakNum=FE1AFE&currStreakLabel=FECB00&sideNums=FE1AFE&sideLabels=FECB00&dates=8080fe&hide_border=false" /></a>
