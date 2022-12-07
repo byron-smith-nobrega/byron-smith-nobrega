@@ -25,4 +25,15 @@ Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou 
 <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="28" /> 
 <br />
 
+##
+
+<div align="center">
+  <a href="https://github.com/byron-smith-nobrega">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byron-smith-nobrega&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron-smith-nobrega&layout=compact&langs_count=7&theme=darck"/>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
 
