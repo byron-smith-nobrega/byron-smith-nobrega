@@ -32,7 +32,7 @@ Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou 
 
 ## ⭐️ GitHub Stats
 
-<div align="center">
+<div align="center" style={ display: flex }>
 <a href="https://github.com/byron-smith-nobrega">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byron-smith-nobrega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron-smith-nobrega&layout=compact&langs_count=6&theme=dark"/>
