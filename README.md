@@ -1,12 +1,11 @@
 ### Oi, muito prazer! Seja muito bem-vindo! 👋
 
-Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou estudando no bootcamp full-stack da Labenu. Sou apaixonado pelo mundo dev e como ele pode transformar as vidas das pessoas.
+Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou estudando no bootcamp full-stack da Labenu. Amo o mundo dev e como ele pode transformar as vidas das pessoas.
 <br />
 
 #### Estudando...
 
-* Front-End
-
+## Front-End
 <br />
 <div style={ display: flex }>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -16,9 +15,7 @@ Sou Byron, graduado em análise e desenvolvimento de sistemas. Atualmente estou 
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <div>
 <br />
-
-* Back-End
-
+## Back-End
 <br />
 <div style={ display: flex }>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
